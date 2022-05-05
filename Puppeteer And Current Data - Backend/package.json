@@ -1,0 +1,26 @@
+{
+  "name": "otologinbankfaturact",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.17.3",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "mangodb": "^1.0.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.0",
+    "node-fecth": "^0.0.1-security",
+    "puppeteer": "^13.5.2",
+    "s1eep": "^1.0.9",
+    "sweetalert": "^2.1.2"
+  },
+  "description": ""
+}
